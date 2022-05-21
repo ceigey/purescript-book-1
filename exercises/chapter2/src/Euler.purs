@@ -1,4 +1,5 @@
-module Euler where
+module Euler
+  where
 
 import Prelude
 import Data.List (range, filter)
